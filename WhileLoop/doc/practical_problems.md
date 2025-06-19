@@ -12,5 +12,7 @@
 4. **Countdown from N to 1**  
    Read a positive integer `N` from the user, then use a `while` loop to print the numbers from `N` down to 1.
 
-5. **First N Multiples of 3**  
-   Prompt the user for a positive integer `N`. Use a `while` loop to print the first `N` multiples of 3 (i.e., 3, 6, 9, ...).
+5. **Reverse an Integer**  
+   Write a C program that reads an integer from the user and uses a `while` loop to reverse its digits.  
+   - **Input:** An integer (e.g., `12345`).  
+   - **Output:** The integer with its digits reversed (e.g., `54321`).

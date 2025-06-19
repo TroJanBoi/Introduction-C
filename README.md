@@ -6,7 +6,7 @@ This repository contains beginner-friendly C exercises and documentation categor
 
 ## 📁 While Loop
 
-- **[Documentation](WhileLoop/while_loop.md)**: Introduction to While Loop
+- **[Documentation](WhileLoop/doc/while_loop.md)**: Introduction to While Loop
 - **[Practical Problems](WhileLoop/Practical-Problems)**: Practical for while loop
 - **Code Examples**:
   - 

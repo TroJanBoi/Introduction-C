@@ -1,4 +1,4 @@
-# 🐍 Introduction to C Language
+# 💓 Introduction to C Language
 
 This repository contains beginner-friendly C exercises and documentation categorized by topics.
 

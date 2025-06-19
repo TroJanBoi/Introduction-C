@@ -16,3 +16,7 @@
    Write a C program that reads an integer from the user and uses a `while` loop to reverse its digits.  
    - **Input:** An integer (e.g., `12345`).  
    - **Output:** The integer with its digits reversed (e.g., `54321`).
+6. **Fibonacci Sequence**  
+   Write a C program that asks the user for a positive integer `N` and uses a `while` loop to print the first `N` terms of the Fibonacci sequence.  
+   - **Input:** A positive integer `N`.  
+   - **Output:** The first `N` Fibonacci numbers, separated by spaces.

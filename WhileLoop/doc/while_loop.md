@@ -76,8 +76,7 @@ int main(void) {
    ```c
    int i = 1;
    while (i <= 5) {
-       printf("%d
-", i);
+       printf("%d", i);
        // missing i++;
    }
    // This will never terminate!

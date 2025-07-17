@@ -50,8 +50,7 @@ int main(void) {
     int i = 1;               // Initialize counter
 
     while (i <= 5) {         // Loop as long as i is ≤ 5
-        printf("%d
-", i);   // Print current value of i
+        printf("%d", i);   // Print current value of i
         i++;                 // Increment counter
     }
 
